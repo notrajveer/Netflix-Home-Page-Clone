@@ -18,8 +18,3 @@ A high-fidelity front-end clone of the Netflix landing page built to practice re
 - `index.html` - The main entry point.
 - `style.css` - Custom styling and animations.
 - `/images` - Optimized assets used in the project.
-
-## 🔧 How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/netflix-clone.git](https://github.com/your-username/netflix-clone.git)
